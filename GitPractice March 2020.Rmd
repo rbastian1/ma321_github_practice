@@ -1,0 +1,13 @@
+---
+title: "Git Practice"
+author: Dr B
+output: html_notebook
+---
+
+
+load packages
+```{r}
+library(mosaic)
+library(MUsaic)
+```
+
