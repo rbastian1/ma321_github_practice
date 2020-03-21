@@ -9,5 +9,8 @@ load packages
 ```{r}
 library(mosaic)
 library(MUsaic)
+x=4
+y=x+32
+y
 ```
 
